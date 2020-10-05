@@ -1,0 +1,21 @@
+2020-10-05 23:45:27,960  INFO [main] Log4JConcept:29 - ****************************** Starting Automation Process  *****************************************
+2020-10-05 23:45:45,065  INFO [main] Log4JConcept:37 - entering application URL
+2020-10-05 23:45:45,065  WARN [main] Log4JConcept:38 - Hey this just a warning message
+2020-10-05 23:45:45,065 FATAL [main] Log4JConcept:39 - hey this is just fatal error message
+2020-10-05 23:45:45,065 DEBUG [main] Log4JConcept:40 - this is debug message
+2020-10-05 23:45:45,077  INFO [main] Log4JConcept:44 - Title of Page is  A fresh approach to customer engagement
+2020-10-05 23:45:45,077  INFO [main] Log4JConcept:46 - ****************************** End of Log4J Concept *****************************************
+2020-10-05 23:46:10,750  INFO [main] Log4JConcept:29 - ****************************** Starting Automation Process  *****************************************
+2020-10-05 23:46:24,972  INFO [main] Log4JConcept:37 - entering application URL
+2020-10-05 23:46:24,972  WARN [main] Log4JConcept:38 - Hey this just a warning message
+2020-10-05 23:46:24,972 FATAL [main] Log4JConcept:39 - hey this is just fatal error message
+2020-10-05 23:46:24,972 DEBUG [main] Log4JConcept:40 - this is debug message
+2020-10-05 23:46:24,981  INFO [main] Log4JConcept:44 - Title of Page is  A fresh approach to customer engagement
+2020-10-05 23:46:24,981  INFO [main] Log4JConcept:46 - ****************************** End of Log4J Concept *****************************************
+2020-10-05 23:47:15,291  INFO [main] Log4JConcept:29 - ****************************** Starting Automation Process  *****************************************
+2020-10-05 23:47:30,218  INFO [main] Log4JConcept:36 - entering application URL
+2020-10-05 23:47:30,218  WARN [main] Log4JConcept:37 - Hey this just a warning message
+2020-10-05 23:47:30,218 FATAL [main] Log4JConcept:38 - hey this is just fatal error message
+2020-10-05 23:47:30,218 DEBUG [main] Log4JConcept:39 - this is debug message
+2020-10-05 23:47:30,229  INFO [main] Log4JConcept:43 - Title of Page is  A fresh approach to customer engagement
+2020-10-05 23:47:30,229  INFO [main] Log4JConcept:45 - ****************************** End of Log4J Concept *****************************************
